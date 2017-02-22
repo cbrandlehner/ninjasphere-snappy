@@ -33,6 +33,8 @@ Note: due to a known issue with the cloud-init component of the Ubuntu Core base
 
 * Login to the device using the standard snappy user name and password of ubuntu in lower case.
 
+Note: this was changed when moving from the evaluation board to the NinjaSphere hardware. The NinjaSphere Images come with a username "ninja" and a default password "temppwd".
+
 * Use sudo to login as root.
 
 ```
